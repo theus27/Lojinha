@@ -1,0 +1,31 @@
+{
+  "site_name": "Hot Store",
+  "site_description": "HOT STORE<br>Aqui você encontra a maior variedade de produtos com total segurança e qualidade. Essa é a nossa responsabilidade.",
+  "url": "https://telegram.me/TheusRn8",
+  "metatags": {
+  
+    "description": "A lojinha online com os melhores preços do Brasil",
+    "color": "#333",
+    "thumbnail": "hotstore.png"
+  },
+  "contact": [
+    {
+      "name": "Whatsapp",
+      "desc": "Entre em contato",
+      "link": "https://api.whatsapp.com/send?phone=5563992589597&text=Tenho%20interesse%20nos%20seus%20produtos",
+      "icon": "fa-whatsapp"
+    },
+    {
+      "name": "Email",
+      "desc": "Entre em contato no E-mail",
+      "link": "semdefinicaodeusuario500@gmail.com",
+      "icon": "fa-email"
+    },
+    {
+      "name": "telegram",
+      "desc": "Manda um Telegram",
+      "link": "https://telegram.me/TheusRn8",
+      "icon": "fa-telegram"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Celulares",
+    "slug": "celulares",
+    "active": true
+  },
+  {
+    "name": "Jogos",
+    "slug": "jogos",
+    "active": true
+  },
+  {
+    "name": "Smartwatch",
+    "slug": "smartwatch",
+    "active": true
+  },
+  {
+    "name": "Livros",
+    "slug": "livros",
+    "active": true
+  },
+  {
+    "name": "Informática",
+    "slug": "informatica",
+    "active": true
+  },
+
+  {
+    "name": "Bebidas",
+    "slug": "bebidas",
+    "active": true
+  }
+]
